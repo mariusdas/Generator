@@ -1,0 +1,17 @@
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\GeneratorTest.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\GeneratorTest.pdb
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Generator.exe
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Generator.pdb
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Generator.exe.config
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Marius\source\repos\Generator\GeneratorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Marius\source\repos\Generator\GeneratorTest\obj\Debug\GeneratorTest.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\Generator\GeneratorTest\obj\Debug\GeneratorTest.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\Generator\GeneratorTest\obj\Debug\GeneratorTest.csproj.CopyComplete
+C:\Users\Marius\source\repos\Generator\GeneratorTest\obj\Debug\GeneratorTest.dll
+C:\Users\Marius\source\repos\Generator\GeneratorTest\obj\Debug\GeneratorTest.pdb
